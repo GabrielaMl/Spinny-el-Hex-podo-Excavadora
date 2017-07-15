@@ -1,4 +1,5 @@
 //Primer paso de la camita
+//Agregar F guarda el string en flash memory
 void paso1(){
 delay(250);
 
